@@ -1,4 +1,5 @@
 baseURL: "https://hugo-profile.netlify.app"
+
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -130,17 +131,19 @@ params:
     intro: "Hi, my name is"
     title: "Fatima Ezzahra Naimi."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
-    bottomImage:
-      enable: true
-    # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
+    content: "I am a passionate student in computer science  , I am more engaged in developping ,learning new things , and building websites that looks great ,feel fantastic.
+    "
+  image: /images/hero.svg
+  bottomImage:
+      enable: true 
+    # roundImage: true # Make hero image circular | default false 
+  button:
+    enable: true
+    name: "Resume"
+    url: "#"
+    download: true
+    newPage: false
+
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
